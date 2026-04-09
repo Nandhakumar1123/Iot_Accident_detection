@@ -70,6 +70,9 @@ void sendTelegram(String message) {
   delay(100);
   client.stop();
 
+
+
+  
   Serial.println(">>> TELEGRAM ALERT SENT <<<");
 }
 
