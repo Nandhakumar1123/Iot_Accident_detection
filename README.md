@@ -97,11 +97,8 @@ This project solves these issues using IoT technology.
                                 ↓
               Telegram Message + Time + Location
 
-# 📐 Chapter 4: Flow Chart
-
-## 🔷 Flow Chart
-
-```text
+📐 Chapter 4: Flow Chart
+🔷 Flow Chart
 Start
   ↓
 Initialize Sensors & WiFi
