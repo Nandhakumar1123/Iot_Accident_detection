@@ -124,3 +124,19 @@ Accident Detected?
  Lock System Until Restart
         ↓
        End
+# 🚨 IoT-Based Accident Detection System
+
+## 📌 Architecture Diagram
+![Architecture Diagram](Images/Architecture_Diagram.jpg)
+
+## ⚙️ Working Model
+![Working Model](Images/Working_Model.jpeg)
+
+## 🚗 Accident Detection
+![Accident Detected](Images/Dected.jpeg)
+
+## 📩 Alert System
+![Alert Sent](Images/Alert_sent.jpeg)
+
+## 🤖 Telegram Bot Integration
+![Telegram Bot](Images/Telegram_bot.jpeg)
