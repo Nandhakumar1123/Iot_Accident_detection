@@ -81,7 +81,7 @@ Road accidents often become fatal because emergency help does not arrive on time
 
 ## 📐 Architecture Diagram
 
-![Architecture Diagram](Images/Architecture_Diagram.jpg)
+![Architecture Diagram](Images/Architeuture_Diagram.jpg)
 
 ---
 
