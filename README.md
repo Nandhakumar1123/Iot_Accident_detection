@@ -131,7 +131,7 @@ Accident Detected?
 
 ## 📩 Alert System
 
-![Alert Sent](Images/Alert_sent.jpeg)
+![Alert Sent](Images/Alert sent.jpeg)
 
 ---
 
