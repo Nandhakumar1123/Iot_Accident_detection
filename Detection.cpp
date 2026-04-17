@@ -77,8 +77,6 @@ void sendTelegram(String message) {
 bool isButtonPressed() {
   return digitalRead(buttonPin) == LOW;
 }
-
-// ---------------- MPU READ ----------------
 void readMPU(int16_t &ax, int16_t &ay, int16_t &az) {
   Wire.beginTransmission(MPU_ADDR);
   Wire.write(0x3B);
