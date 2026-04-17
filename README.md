@@ -85,3 +85,24 @@ Sensors (Shock / Sound / Tilt / MPU6050)
   If Not Cancelled → Send Alert
                 ↓
  Telegram Message + Time + Location
+
+Start
+  ↓
+Initialize Sensors & WiFi
+  ↓
+Read Sensor Values
+  ↓
+Check Accident Conditions
+  ↓
+If No Accident → Continue Monitoring
+  ↓
+If Accident Detected
+  ↓
+Start 15-sec Timer + LED ON
+  ↓
+Check Push Button
+  ↓
+If Pressed → Cancel Alert
+If Not Pressed → Send Telegram Alert
+  ↓
+Lock System Until Restart
