@@ -123,7 +123,7 @@ Accident Detected?
 
 ---
 
-## 🚗 Accident Detection
+## 🚗 Accident Detection and canceled the alert
 
 ![Accident Detected](Images/Dected.jpeg)
 
@@ -131,7 +131,7 @@ Accident Detected?
 
 ## 📩 Alert System
 
-![Alert Sent](Images/Alert sent.jpeg)
+![Alert Sent](Images/Alertsent.jpeg)
 
 ---
 
